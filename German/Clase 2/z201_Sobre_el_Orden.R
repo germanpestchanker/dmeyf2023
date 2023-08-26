@@ -39,11 +39,11 @@ print(arbol)
 ## Usualmente se suele cortar las variables en 2 intervalos
 ## - ¿Se podría cortar en más intervalos?
 ## - ¿Cuál sería el costo?
-## - ¿Se obtendrían mejores resultados?
+## - ¿Se obtendr.ían mejores resultados?
 ##
 ## Una de las muchas ventajas que tienen los árboles es la simpleza que tienen
 ## para ser implementados en fácilmente en sistemas productivos, dado que la
-## reescritura de las reglas de salida es muy simple.
+## reescritura de las reglas de salida es muy simple
 
 
 ## ---------------------------
